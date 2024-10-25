@@ -59,7 +59,7 @@ class Glasses:
         text_to_display = """ 
                 A visualization tool for single-qubit rotations on a bloch sphere.
                 
-                Created by: Shazia Khateeb, Ganesh Bhoyar, Vishal Tamhane.
+                Created by: Shazia Khateeb.
 
 
                 X = flips the state of qubit -                                circuit.x()
